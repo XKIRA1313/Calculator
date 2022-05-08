@@ -1,0 +1,18 @@
+h1 {
+    font-family: 'Lalezar', cursive;
+    color: rgb(150, 100, 150);
+    text-decoration: border 5px solid red;
+    text-shadow: 1.5px 1.5px 2.5px black;
+    -webkit-text-stroke-width: .5px;
+    -webkit-text-stroke-color: black;
+}
+.calcbutton {
+    -webkit-text-stroke-width: .5px;
+    -webkit-text-stroke-color: black;
+    text-shadow: 2px 2px 2.5px black;
+    margin: 1px;
+}
+
+.custom {
+    width: 116.5px !important;
+}
